@@ -15,7 +15,7 @@
             "role": "Maintainer"
         }
     ],
-    "name": "mcustiel/phiremock-server",
+    "name": "darkmatus/phiremock-server",
     "type": "project",
     "description": "A mocker for HTTP and REST services",
     "license": "GPL-3.0-or-later",
