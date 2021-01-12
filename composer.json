@@ -20,7 +20,7 @@
     "description": "A mocker for HTTP and REST services",
     "license": "GPL-3.0-or-later",
     "require": {
-        "php": "^8.0",
+        "php": ">=8.0",
         "ext-json": "*",
         "darkmatus/phiremock-common": "^2.0",
         "react/http": "^1.0",
